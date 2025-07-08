@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/turtlebot_cosmo_interface__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlebot_cosmo_interface/srv/detail/moveit_control__type_support.c.o"
+  "CMakeFiles/turtlebot_cosmo_interface__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlebot_cosmo_interface/srv/detail/moveit_control__type_support.c.o.d"
+  "libturtlebot_cosmo_interface__rosidl_typesupport_introspection_c.pdb"
+  "libturtlebot_cosmo_interface__rosidl_typesupport_introspection_c.so"
+  "rosidl_typesupport_introspection_c/turtlebot_cosmo_interface/srv/detail/moveit_control__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/turtlebot_cosmo_interface/srv/detail/moveit_control__type_support.c"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/turtlebot_cosmo_interface__rosidl_typesupport_introspection_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

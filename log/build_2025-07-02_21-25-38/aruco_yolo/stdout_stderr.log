@@ -1,0 +1,127 @@
+running egg_info
+creating ../../build/aruco_yolo/aruco_yolo.egg-info
+writing ../../build/aruco_yolo/aruco_yolo.egg-info/PKG-INFO
+writing dependency_links to ../../build/aruco_yolo/aruco_yolo.egg-info/dependency_links.txt
+writing entry points to ../../build/aruco_yolo/aruco_yolo.egg-info/entry_points.txt
+writing requirements to ../../build/aruco_yolo/aruco_yolo.egg-info/requires.txt
+writing top-level names to ../../build/aruco_yolo/aruco_yolo.egg-info/top_level.txt
+writing manifest file '../../build/aruco_yolo/aruco_yolo.egg-info/SOURCES.txt'
+reading manifest file '../../build/aruco_yolo/aruco_yolo.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/aruco_yolo/aruco_yolo.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build
+creating /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib
+creating /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/yolo_detector.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/aruco_move.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/camera_info.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/arm_ik.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/pick_n_place_js_2.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/pick_n_place_orig.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/pick_and_place_0702.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/turtlebot3_manipulation_teleop.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/pick_n_place_4.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/pick_n_place.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/original.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/compressed_image_pub.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/temp.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/pick_and_place.ori.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/aruco_detector.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/pick_n_place_3.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/pick_n_place_js_1.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/aruco_detector_js.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/turtlebot3_manipulation_xyz_limit.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/moveit_client.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/camera_pub.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+copying aruco_yolo/__init__.py -> /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo
+running install
+running install_lib
+creating /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/yolo_detector.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/aruco_move.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/camera_info.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/arm_ik.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/pick_n_place_js_2.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/pick_n_place_orig.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/pick_and_place_0702.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/turtlebot3_manipulation_teleop.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/pick_n_place_4.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/pick_n_place.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/original.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/compressed_image_pub.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/temp.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/pick_and_place.ori.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/aruco_detector.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/pick_n_place_3.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/pick_n_place_js_1.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/aruco_detector_js.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/turtlebot3_manipulation_xyz_limit.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/moveit_client.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/camera_pub.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+copying /home/rokey-jw/rokeypj_ws/build/aruco_yolo/build/lib/aruco_yolo/__init__.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/yolo_detector.py to yolo_detector.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/aruco_move.py to aruco_move.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/camera_info.py to camera_info.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/arm_ik.py to arm_ik.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/pick_n_place_js_2.py to pick_n_place_js_2.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/pick_n_place_orig.py to pick_n_place_orig.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/pick_and_place_0702.py to pick_and_place_0702.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/turtlebot3_manipulation_teleop.py to turtlebot3_manipulation_teleop.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/pick_n_place_4.py to pick_n_place_4.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/pick_n_place.py to pick_n_place.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/original.py to original.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/compressed_image_pub.py to compressed_image_pub.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/temp.py to temp.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/pick_and_place.ori.py to pick_and_place.ori.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/aruco_detector.py to aruco_detector.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/pick_n_place_3.py to pick_n_place_3.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/pick_n_place_js_1.py to pick_n_place_js_1.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/aruco_detector_js.py to aruco_detector_js.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/turtlebot3_manipulation_xyz_limit.py to turtlebot3_manipulation_xyz_limit.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/moveit_client.py to moveit_client.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/camera_pub.py to camera_pub.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/ament_index
+creating /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/ament_index/resource_index
+creating /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/ament_index/resource_index/packages
+copying resource/aruco_yolo -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/ament_index/resource_index/packages
+copying package.xml -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo
+creating /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/config
+copying config/calibration_params.yaml -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/config
+copying config/camera_params.yaml -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/config
+copying config/kinematics.yaml -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/config
+creating /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/models
+copying models/yolov8s_trained.pt -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/models
+creating /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/aruco_only.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/camera.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/pnp_only.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/yolo_only.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/compressed_yolo.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/pick_and_place.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/aruco_move.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/aruco_yolo.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/aruco_last.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/compressed_only.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/aruco_yolo_org.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/aruco_detect.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/compressed_aruco.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+copying launch/aruco_move_only.launch.py -> /home/rokey-jw/rokeypj_ws/install/aruco_yolo/share/aruco_yolo/launch
+running install_egg_info
+Copying ../../build/aruco_yolo/aruco_yolo.egg-info to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/python3.10/site-packages/aruco_yolo-0.0.0-py3.10.egg-info
+running install_scripts
+Installing arm_ik script to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/aruco_yolo
+Installing aruco_detector script to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/aruco_yolo
+Installing aruco_move script to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/aruco_yolo
+Installing camera_info script to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/aruco_yolo
+Installing camera_pub script to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/aruco_yolo
+Installing camera_pub_s script to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/aruco_yolo
+Installing compressed_image_pub script to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/aruco_yolo
+Installing moveit_client script to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/aruco_yolo
+Installing pick_and_place script to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/aruco_yolo
+Installing pick_n_place script to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/aruco_yolo
+Installing yolo_detector script to /home/rokey-jw/rokeypj_ws/install/aruco_yolo/lib/aruco_yolo
+writing list of installed files to '/home/rokey-jw/rokeypj_ws/build/aruco_yolo/install.log'

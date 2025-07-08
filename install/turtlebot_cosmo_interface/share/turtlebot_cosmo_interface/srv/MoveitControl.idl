@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from turtlebot_cosmo_interface/srv/MoveitControl.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/PoseArray.idl"
+
+module turtlebot_cosmo_interface {
+  module srv {
+    struct MoveitControl_Request {
+      int32 cmd;
+
+      string posename;
+
+      geometry_msgs::msg::PoseArray waypoints;
+    };
+    struct MoveitControl_Response {
+      boolean response;
+    };
+  };
+};

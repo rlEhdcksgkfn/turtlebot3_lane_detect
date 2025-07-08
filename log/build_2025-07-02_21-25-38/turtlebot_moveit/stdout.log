@@ -1,0 +1,103 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found moveit_ros_planning_interface: 2.5.9 (/opt/ros/humble/share/moveit_ros_planning_interface/cmake)
+-- Found Boost: /usr/lib/aarch64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem program_options system thread 
+-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found Boost: /usr/lib/aarch64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+-- Found parameter_traits: 0.4.0 (/opt/ros/humble/share/parameter_traits/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+-- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+-- Found Threads: TRUE  
+-- Found Eigen3: TRUE (found version "3.4.0") 
+-- Found rclcpp_lifecycle: 16.0.12 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+-- Found Boost: /usr/lib/aarch64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+-- library: /usr/lib/aarch64-linux-gnu/libcurl.so
+-- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+-- Found Boost: /usr/lib/aarch64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+-- Found Boost: /usr/lib/aarch64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+-- Found Boost: /usr/lib/aarch64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread 
+-- Found turtlebot_cosmo_interface: 0.0.0 (/home/rokey-jw/rokeypj_ws/install/turtlebot_cosmo_interface/share/turtlebot_cosmo_interface/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rokey-jw/rokeypj_ws/build/turtlebot_moveit
+[ 50%] [32mBuilding CXX object CMakeFiles/turtlebot_moveit.dir/src/turtlebot_moveit.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/turtlebot_arm_controller.dir/src/turtlebot_arm_controller.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/get_eef_pose.dir/src/get_eef_pose.cpp.o[0m
+[ 50%] Built target ament_cmake_python_copy_scripts
+running egg_info
+creating scripts.egg-info
+writing scripts.egg-info/PKG-INFO
+writing dependency_links to scripts.egg-info/dependency_links.txt
+writing top-level names to scripts.egg-info/top_level.txt
+writing manifest file 'scripts.egg-info/SOURCES.txt'
+reading manifest file 'scripts.egg-info/SOURCES.txt'
+writing manifest file 'scripts.egg-info/SOURCES.txt'
+[ 50%] Built target ament_cmake_python_build_scripts_egg
+[ 66%] [32m[1mLinking CXX executable get_eef_pose[0m
+[ 83%] [32m[1mLinking CXX executable turtlebot_moveit[0m
+[ 83%] Built target get_eef_pose
+[ 83%] Built target turtlebot_moveit
+[100%] [32m[1mLinking CXX executable turtlebot_arm_controller[0m
+[100%] Built target turtlebot_arm_controller
+-- Install configuration: ""
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/lib/turtlebot_moveit/turtlebot_moveit
+-- Set runtime path of "/home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/lib/turtlebot_moveit/turtlebot_moveit" to ""
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/lib/turtlebot_moveit/get_eef_pose
+-- Set runtime path of "/home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/lib/turtlebot_moveit/get_eef_pose" to ""
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/lib/turtlebot_moveit/turtlebot_arm_controller
+-- Set runtime path of "/home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/lib/turtlebot_moveit/turtlebot_arm_controller" to ""
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/environment/pythonpath.sh
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/environment/pythonpath.dsv
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/top_level.txt
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts/srv_call_test.py
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts/project_sample.py
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts/gripper_open_close.py
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts/task.py
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts/__init__.py
+Listing '/home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts'...
+Compiling '/home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts/__init__.py'...
+Compiling '/home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts/gripper_open_close.py'...
+Compiling '/home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts/project_sample.py'...
+Compiling '/home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts/srv_call_test.py'...
+Compiling '/home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/local/lib/python3.10/dist-packages/scripts/task.py'...
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/lib/turtlebot_moveit/srv_call_test.py
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/lib/turtlebot_moveit/task.py
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit//launch
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit//launch/move_group.launch.py
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/ament_index/resource_index/package_run_dependencies/turtlebot_moveit
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/ament_index/resource_index/parent_prefix_path/turtlebot_moveit
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/environment/ament_prefix_path.sh
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/environment/ament_prefix_path.dsv
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/environment/path.sh
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/environment/path.dsv
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/local_setup.bash
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/local_setup.sh
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/local_setup.zsh
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/local_setup.dsv
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/package.dsv
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/ament_index/resource_index/packages/turtlebot_moveit
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/cmake/turtlebot_moveitConfig.cmake
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/cmake/turtlebot_moveitConfig-version.cmake
+-- Installing: /home/rokey-jw/rokeypj_ws/install/turtlebot_moveit/share/turtlebot_moveit/package.xml

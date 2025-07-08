@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-3a9141c5599e7c0a9633.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "turtlebot_moveit",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_scripts_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_scripts_egg-6d27fcaccec747c95fbf.json",
+					"name" : "ament_cmake_python_build_scripts_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_scripts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_scripts-f22765edd3a256e91979.json",
+					"name" : "ament_cmake_python_copy_scripts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "get_eef_pose::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-get_eef_pose-320001ff107ccf9f212c.json",
+					"name" : "get_eef_pose",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_arm_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_arm_controller-91edaf1a71b087f97a7c.json",
+					"name" : "turtlebot_arm_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_moveit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_moveit-0575694fe39926f19aa4.json",
+					"name" : "turtlebot_moveit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_moveit_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_moveit_uninstall-9663a98b0f1ccc2bb412.json",
+					"name" : "turtlebot_moveit_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-283133ce2e2e8da97482.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rokey-jw/rokeypj_ws/build/turtlebot_moveit",
+		"source" : "/home/rokey-jw/rokeypj_ws/src/turtlebot_moveit/turtlebot_moveit"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

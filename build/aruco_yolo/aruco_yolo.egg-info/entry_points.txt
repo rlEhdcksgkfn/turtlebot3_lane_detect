@@ -1,0 +1,13 @@
+[console_scripts]
+arm_ik = aruco_yolo.arm_ik:main
+aruco_detector = aruco_yolo.aruco_detector:main
+aruco_move = aruco_yolo.aruco_move:main
+camera_info = aruco_yolo.camera_info:main
+camera_pub = aruco_yolo.camera_pub:main
+camera_pub_s = aruco_yolo.camera_pub_s:main
+compressed_image_pub = aruco_yolo.compressed_image_pub:main
+moveit_client = aruco_yolo.moveit_client:main
+pick_and_place = aruco_yolo.pick_and_place:main
+pick_n_place = aruco_yolo.pick_n_place:main
+yolo_detector = aruco_yolo.yolo_detector:main
+

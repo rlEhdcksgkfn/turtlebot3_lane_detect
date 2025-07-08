@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "turtlebot_cosmo_interface__py",
+		"source" : "/home/rokey-jw/rokeypj_ws/build/turtlebot_cosmo_interface/turtlebot_cosmo_interface__py"
+	}
+}

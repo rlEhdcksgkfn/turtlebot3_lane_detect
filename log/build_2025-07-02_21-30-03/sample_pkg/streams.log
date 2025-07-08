@@ -1,0 +1,20 @@
+[1.796s] Invoking command in '/home/rokey-jw/rokeypj_ws/src/sample_pkg': PYTHONPATH=/home/rokey-jw/rokeypj_ws/build/sample_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sample_pkg build --build-base /home/rokey-jw/rokeypj_ws/build/sample_pkg/build install --record /home/rokey-jw/rokeypj_ws/build/sample_pkg/install.log --single-version-externally-managed install_data
+[2.395s] running egg_info
+[2.397s] writing ../../build/sample_pkg/sample_pkg.egg-info/PKG-INFO
+[2.404s] writing dependency_links to ../../build/sample_pkg/sample_pkg.egg-info/dependency_links.txt
+[2.405s] writing entry points to ../../build/sample_pkg/sample_pkg.egg-info/entry_points.txt
+[2.405s] writing requirements to ../../build/sample_pkg/sample_pkg.egg-info/requires.txt
+[2.405s] writing top-level names to ../../build/sample_pkg/sample_pkg.egg-info/top_level.txt
+[2.410s] reading manifest file '../../build/sample_pkg/sample_pkg.egg-info/SOURCES.txt'
+[2.412s] writing manifest file '../../build/sample_pkg/sample_pkg.egg-info/SOURCES.txt'
+[2.413s] running build
+[2.413s] running build_py
+[2.417s] running install
+[2.417s] running install_lib
+[2.423s] running install_data
+[2.424s] running install_egg_info
+[2.427s] removing '/home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.428s] Copying ../../build/sample_pkg/sample_pkg.egg-info to /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg-0.0.0-py3.10.egg-info
+[2.430s] running install_scripts
+[2.474s] writing list of installed files to '/home/rokey-jw/rokeypj_ws/build/sample_pkg/install.log'
+[2.546s] Invoked command in '/home/rokey-jw/rokeypj_ws/src/sample_pkg' returned '0': PYTHONPATH=/home/rokey-jw/rokeypj_ws/build/sample_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sample_pkg build --build-base /home/rokey-jw/rokeypj_ws/build/sample_pkg/build install --record /home/rokey-jw/rokeypj_ws/build/sample_pkg/install.log --single-version-externally-managed install_data

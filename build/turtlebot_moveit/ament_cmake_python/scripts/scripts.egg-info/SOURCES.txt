@@ -1,0 +1,10 @@
+setup.py
+scripts/__init__.py
+scripts/gripper_open_close.py
+scripts/project_sample.py
+scripts/srv_call_test.py
+scripts/task.py
+scripts.egg-info/PKG-INFO
+scripts.egg-info/SOURCES.txt
+scripts.egg-info/dependency_links.txt
+scripts.egg-info/top_level.txt

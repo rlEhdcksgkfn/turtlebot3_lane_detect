@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-7271a79f994acb752db0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "turtlebot_cosmo_interface__py",
+					"jsonFile" : "directory-turtlebot_cosmo_interface__py-1789fcfcaf5ac793f0bd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/rokey-jw/rokeypj_ws/build/turtlebot_cosmo_interface/turtlebot_cosmo_interface__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "turtlebot_cosmo_interface",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_turtlebot_cosmo_interface_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_turtlebot_cosmo_interface_egg-f47b6d7f99c2a614b377.json",
+					"name" : "ament_cmake_python_build_turtlebot_cosmo_interface_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_turtlebot_cosmo_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_turtlebot_cosmo_interface-a91b403ffcb8137a346f.json",
+					"name" : "ament_cmake_python_copy_turtlebot_cosmo_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface-3ed9af8b457abcc094ce.json",
+					"name" : "turtlebot_cosmo_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__cpp-f1cb9d5e4e51d9ba8a85.json",
+					"name" : "turtlebot_cosmo_interface__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "turtlebot_cosmo_interface__py::@19f815735dcce2983421",
+					"jsonFile" : "target-turtlebot_cosmo_interface__py-d2a30ebd2e633d559665.json",
+					"name" : "turtlebot_cosmo_interface__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__rosidl_generator_c-35277f528ee3cca4a887.json",
+					"name" : "turtlebot_cosmo_interface__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__rosidl_generator_py-602a7c042d7d44d6bbce.json",
+					"name" : "turtlebot_cosmo_interface__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__rosidl_typesupport_c-41bbf508f499497a3016.json",
+					"name" : "turtlebot_cosmo_interface__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__rosidl_typesupport_c__pyext-316d9992bcfd18a449af.json",
+					"name" : "turtlebot_cosmo_interface__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__rosidl_typesupport_cpp-af7e16d207cb9eccbfde.json",
+					"name" : "turtlebot_cosmo_interface__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__rosidl_typesupport_fastrtps_c-1cfdeddb180b37def1ab.json",
+					"name" : "turtlebot_cosmo_interface__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__rosidl_typesupport_fastrtps_c__pyext-e29590a6266463f7b84e.json",
+					"name" : "turtlebot_cosmo_interface__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__rosidl_typesupport_fastrtps_cpp-8d267352d2063c9bdd0c.json",
+					"name" : "turtlebot_cosmo_interface__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__rosidl_typesupport_introspection_c-9e235884fe5b1a4e7cee.json",
+					"name" : "turtlebot_cosmo_interface__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__rosidl_typesupport_introspection_c__pyext-702353b520ba55583d5e.json",
+					"name" : "turtlebot_cosmo_interface__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface__rosidl_typesupport_introspection_cpp-7544ee29f62e437ce9f5.json",
+					"name" : "turtlebot_cosmo_interface__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot_cosmo_interface_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot_cosmo_interface_uninstall-3af06a7a735882cb86e2.json",
+					"name" : "turtlebot_cosmo_interface_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ea48c411ad9ec72f0677.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rokey-jw/rokeypj_ws/build/turtlebot_cosmo_interface",
+		"source" : "/home/rokey-jw/rokeypj_ws/src/turtlebot_cosmo_interface/turtlebot_cosmo_interface"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

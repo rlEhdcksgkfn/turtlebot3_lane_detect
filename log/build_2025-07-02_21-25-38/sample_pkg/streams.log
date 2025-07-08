@@ -1,0 +1,123 @@
+[4.064s] Invoking command in '/home/rokey-jw/rokeypj_ws/src/sample_pkg': PYTHONPATH=/home/rokey-jw/rokeypj_ws/build/sample_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sample_pkg build --build-base /home/rokey-jw/rokeypj_ws/build/sample_pkg/build install --record /home/rokey-jw/rokeypj_ws/build/sample_pkg/install.log --single-version-externally-managed install_data
+[5.968s] running egg_info
+[5.969s] creating ../../build/sample_pkg/sample_pkg.egg-info
+[5.970s] writing ../../build/sample_pkg/sample_pkg.egg-info/PKG-INFO
+[5.971s] writing dependency_links to ../../build/sample_pkg/sample_pkg.egg-info/dependency_links.txt
+[5.982s] writing entry points to ../../build/sample_pkg/sample_pkg.egg-info/entry_points.txt
+[5.983s] writing requirements to ../../build/sample_pkg/sample_pkg.egg-info/requires.txt
+[5.983s] writing top-level names to ../../build/sample_pkg/sample_pkg.egg-info/top_level.txt
+[5.984s] writing manifest file '../../build/sample_pkg/sample_pkg.egg-info/SOURCES.txt'
+[5.992s] reading manifest file '../../build/sample_pkg/sample_pkg.egg-info/SOURCES.txt'
+[6.001s] writing manifest file '../../build/sample_pkg/sample_pkg.egg-info/SOURCES.txt'
+[6.002s] running build
+[6.002s] running build_py
+[6.003s] creating /home/rokey-jw/rokeypj_ws/build/sample_pkg/build
+[6.004s] creating /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib
+[6.004s] creating /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.023s] copying sample_pkg/camera_calibration_captures.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.024s] copying sample_pkg/yolo_detector.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.025s] copying sample_pkg/camera_test_calibrationed.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.026s] copying sample_pkg/camera_calibration_saveto_pkl.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.027s] copying sample_pkg/task_1.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.027s] copying sample_pkg/camera_calibration.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.028s] copying sample_pkg/srv_call_test.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.029s] copying sample_pkg/aruco_detect.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.029s] copying sample_pkg/task_menu_02.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.030s] copying sample_pkg/task_8.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.031s] copying sample_pkg/aruco_distance.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.031s] copying sample_pkg/task_5.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.032s] copying sample_pkg/All_task_7.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.033s] copying sample_pkg/gui_example.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.034s] copying sample_pkg/task_menu.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.035s] copying sample_pkg/task_9.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.036s] copying sample_pkg/aruco_move_w_camera_home.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.036s] copying sample_pkg/task_4.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.037s] copying sample_pkg/simple_manager_node.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.038s] copying sample_pkg/cmd_vel_purple.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.039s] copying sample_pkg/task_3.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.040s] copying sample_pkg/turtlebot3_manipulation_xyz_limit.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.042s] copying sample_pkg/task_menu_01.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.042s] copying sample_pkg/task_6.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.050s] copying sample_pkg/__init__.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.050s] copying sample_pkg/aruco_run.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.051s] copying sample_pkg/camera_test.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.052s] copying sample_pkg/task_7.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.055s] copying sample_pkg/task_2.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.058s] copying sample_pkg/aruco_generate.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.058s] copying sample_pkg/Re_task_7_red_blue.py -> /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg
+[6.062s] running install
+[6.064s] running install_lib
+[6.074s] creating /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.074s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/camera_calibration_captures.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.075s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/yolo_detector.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.076s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/camera_test_calibrationed.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.076s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/camera_calibration_saveto_pkl.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.077s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_1.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.078s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/camera_calibration.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.078s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/srv_call_test.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.079s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/aruco_detect.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.080s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_menu_02.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.086s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_8.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.087s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/aruco_distance.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.088s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_5.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.088s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/All_task_7.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.089s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/gui_example.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.090s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_menu.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.090s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_9.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.091s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/aruco_move_w_camera_home.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.092s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_4.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.092s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/simple_manager_node.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.101s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/cmd_vel_purple.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.102s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_3.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.103s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/turtlebot3_manipulation_xyz_limit.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.104s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_menu_01.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.105s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_6.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.105s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/__init__.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.111s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/aruco_run.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.112s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/camera_test.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.113s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_7.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.113s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/task_2.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.114s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/aruco_generate.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.115s] copying /home/rokey-jw/rokeypj_ws/build/sample_pkg/build/lib/sample_pkg/Re_task_7_red_blue.py -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg
+[6.118s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/camera_calibration_captures.py to camera_calibration_captures.cpython-310.pyc
+[6.135s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/yolo_detector.py to yolo_detector.cpython-310.pyc
+[6.138s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/camera_test_calibrationed.py to camera_test_calibrationed.cpython-310.pyc
+[6.141s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/camera_calibration_saveto_pkl.py to camera_calibration_saveto_pkl.cpython-310.pyc
+[6.152s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_1.py to task_1.cpython-310.pyc
+[6.159s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/camera_calibration.py to camera_calibration.cpython-310.pyc
+[6.161s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/srv_call_test.py to srv_call_test.cpython-310.pyc
+[6.164s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/aruco_detect.py to aruco_detect.cpython-310.pyc
+[6.175s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_menu_02.py to task_menu_02.cpython-310.pyc
+[6.179s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_8.py to task_8.cpython-310.pyc
+[6.184s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/aruco_distance.py to aruco_distance.cpython-310.pyc
+[6.206s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_5.py to task_5.cpython-310.pyc
+[6.210s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/All_task_7.py to All_task_7.cpython-310.pyc
+[6.263s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/gui_example.py to gui_example.cpython-310.pyc
+[6.298s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_menu.py to task_menu.cpython-310.pyc
+[6.304s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_9.py to task_9.cpython-310.pyc
+[6.316s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/aruco_move_w_camera_home.py to aruco_move_w_camera_home.cpython-310.pyc
+[6.324s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_4.py to task_4.cpython-310.pyc
+[6.325s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/simple_manager_node.py to simple_manager_node.cpython-310.pyc
+[6.342s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/cmd_vel_purple.py to cmd_vel_purple.cpython-310.pyc
+[6.356s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_3.py to task_3.cpython-310.pyc
+[6.357s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/turtlebot3_manipulation_xyz_limit.py to turtlebot3_manipulation_xyz_limit.cpython-310.pyc
+[6.361s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_menu_01.py to task_menu_01.cpython-310.pyc
+[6.375s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_6.py to task_6.cpython-310.pyc
+[6.379s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/__init__.py to __init__.cpython-310.pyc
+[6.383s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/aruco_run.py to aruco_run.cpython-310.pyc
+[6.395s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/camera_test.py to camera_test.cpython-310.pyc
+[6.397s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_7.py to task_7.cpython-310.pyc
+[6.405s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/task_2.py to task_2.cpython-310.pyc
+[6.419s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/aruco_generate.py to aruco_generate.cpython-310.pyc
+[6.424s] byte-compiling /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg/Re_task_7_red_blue.py to Re_task_7_red_blue.cpython-310.pyc
+[6.432s] running install_data
+[6.432s] creating /home/rokey-jw/rokeypj_ws/install/sample_pkg/share/ament_index
+[6.432s] creating /home/rokey-jw/rokeypj_ws/install/sample_pkg/share/ament_index/resource_index
+[6.433s] creating /home/rokey-jw/rokeypj_ws/install/sample_pkg/share/ament_index/resource_index/packages
+[6.433s] copying resource/sample_pkg -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/share/ament_index/resource_index/packages
+[6.446s] copying package.xml -> /home/rokey-jw/rokeypj_ws/install/sample_pkg/share/sample_pkg
+[6.446s] running install_egg_info
+[6.459s] Copying ../../build/sample_pkg/sample_pkg.egg-info to /home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages/sample_pkg-0.0.0-py3.10.egg-info
+[6.461s] running install_scripts
+[6.661s] writing list of installed files to '/home/rokey-jw/rokeypj_ws/build/sample_pkg/install.log'
+[6.947s] Invoked command in '/home/rokey-jw/rokeypj_ws/src/sample_pkg' returned '0': PYTHONPATH=/home/rokey-jw/rokeypj_ws/build/sample_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey-jw/rokeypj_ws/install/sample_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sample_pkg build --build-base /home/rokey-jw/rokeypj_ws/build/sample_pkg/build install --record /home/rokey-jw/rokeypj_ws/build/sample_pkg/install.log --single-version-externally-managed install_data

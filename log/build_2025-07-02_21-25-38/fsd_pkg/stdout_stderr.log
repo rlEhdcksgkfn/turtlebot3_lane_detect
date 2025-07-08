@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/fsd_pkg/fsd_pkg.egg-info
+writing ../../build/fsd_pkg/fsd_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/fsd_pkg/fsd_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/fsd_pkg/fsd_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/fsd_pkg/fsd_pkg.egg-info/requires.txt
+writing top-level names to ../../build/fsd_pkg/fsd_pkg.egg-info/top_level.txt
+writing manifest file '../../build/fsd_pkg/fsd_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/fsd_pkg/fsd_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/fsd_pkg/fsd_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rokey-jw/rokeypj_ws/build/fsd_pkg/build
+creating /home/rokey-jw/rokeypj_ws/build/fsd_pkg/build/lib
+creating /home/rokey-jw/rokeypj_ws/build/fsd_pkg/build/lib/fsd_pkg
+copying fsd_pkg/white_line_detect.py -> /home/rokey-jw/rokeypj_ws/build/fsd_pkg/build/lib/fsd_pkg
+copying fsd_pkg/yellow_line_detect.py -> /home/rokey-jw/rokeypj_ws/build/fsd_pkg/build/lib/fsd_pkg
+copying fsd_pkg/__init__.py -> /home/rokey-jw/rokeypj_ws/build/fsd_pkg/build/lib/fsd_pkg
+running install
+running install_lib
+creating /home/rokey-jw/rokeypj_ws/install/fsd_pkg/lib/python3.10/site-packages/fsd_pkg
+copying /home/rokey-jw/rokeypj_ws/build/fsd_pkg/build/lib/fsd_pkg/white_line_detect.py -> /home/rokey-jw/rokeypj_ws/install/fsd_pkg/lib/python3.10/site-packages/fsd_pkg
+copying /home/rokey-jw/rokeypj_ws/build/fsd_pkg/build/lib/fsd_pkg/yellow_line_detect.py -> /home/rokey-jw/rokeypj_ws/install/fsd_pkg/lib/python3.10/site-packages/fsd_pkg
+copying /home/rokey-jw/rokeypj_ws/build/fsd_pkg/build/lib/fsd_pkg/__init__.py -> /home/rokey-jw/rokeypj_ws/install/fsd_pkg/lib/python3.10/site-packages/fsd_pkg
+byte-compiling /home/rokey-jw/rokeypj_ws/install/fsd_pkg/lib/python3.10/site-packages/fsd_pkg/white_line_detect.py to white_line_detect.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/fsd_pkg/lib/python3.10/site-packages/fsd_pkg/yellow_line_detect.py to yellow_line_detect.cpython-310.pyc
+byte-compiling /home/rokey-jw/rokeypj_ws/install/fsd_pkg/lib/python3.10/site-packages/fsd_pkg/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/rokey-jw/rokeypj_ws/install/fsd_pkg/share/ament_index
+creating /home/rokey-jw/rokeypj_ws/install/fsd_pkg/share/ament_index/resource_index
+creating /home/rokey-jw/rokeypj_ws/install/fsd_pkg/share/ament_index/resource_index/packages
+copying resource/fsd_pkg -> /home/rokey-jw/rokeypj_ws/install/fsd_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/rokey-jw/rokeypj_ws/install/fsd_pkg/share/fsd_pkg
+running install_egg_info
+Copying ../../build/fsd_pkg/fsd_pkg.egg-info to /home/rokey-jw/rokeypj_ws/install/fsd_pkg/lib/python3.10/site-packages/fsd_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/rokey-jw/rokeypj_ws/build/fsd_pkg/install.log'
